@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">pierfuker</string>
+    <string name="hint">请输入文字：</string>
+    <string name="del">删除</string>
+    <string name="cancel">取消</string>
+</resources>
