@@ -14,7 +14,7 @@ public class NotesDB extends SQLiteOpenHelper {
     public NotesDB(Context context) {
         super(context, "notes", null, 1);
     }
-
+//这是注释
     @Override
     public void onCreate(SQLiteDatabase db) {
         db.execSQL("CREATE TABLE "+ TABLE_NAME + "(" + ID
